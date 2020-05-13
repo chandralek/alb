@@ -1,0 +1,1 @@
+TAGS              = {"PROJECT" = "roboshop", "ENV" = "nonprod"}
